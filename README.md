@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0875-koko-eating-bananas) |
