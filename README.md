@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
