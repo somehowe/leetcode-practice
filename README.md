@@ -23,6 +23,7 @@
 | [0322-coin-change](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -41,6 +42,7 @@
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -115,6 +119,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -139,6 +144,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
