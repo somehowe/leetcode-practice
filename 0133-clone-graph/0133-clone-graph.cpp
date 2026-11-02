@@ -22,45 +22,25 @@ public:
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
-        // maybe we do a mapping of og to our new nodes.
-        // in our first pass we only worry about getting value right and then we can do neighbors.
-        unordered_set<Node *> visited;
+        if (!node) return nullptr;
         queue<Node *> q;
         unordered_map<Node *, Node *> ogToNew;
-        if (node) q.push(node);
-        if (node) visited.insert(node);
-        while (!q.empty()) {
-            Node * curr = q.front();
-            q.pop();
-            Node *copy = new Node(curr->val);
-            ogToNew[curr] = copy;
-            // iteratre through the neighbors:
-            for (const auto& nxt : curr->neighbors) {
-                if (!visited.contains(nxt)) {
-                    visited.insert(nxt);
-                    q.push(nxt);
-                }
-            }
-        }
-        // now we have all our nodes and need to link them up correctly
-        // q is empty
-        visited.clear();
-        visited.insert(node);
-        if (node) q.push(node);
+        q.push(node);
+        ogToNew[node] = new Node(node->val);
+        // our invariant is if it is in the visited list then we have added it to our map
         while (!q.empty()) {
             Node *curr = q.front();
             q.pop();
-            Node *currCopy = ogToNew[curr];
             for (const auto& nxt : curr->neighbors) {
-                if (!visited.contains(nxt)) {
-                    visited.insert(nxt);
+                if (!ogToNew.contains(nxt)) {
+                    // means we have yet to create the new node either
+                    ogToNew[nxt] = new Node(nxt->val);
                     q.push(nxt);
                 }
-                currCopy->neighbors.push_back(ogToNew[nxt]);
+                // we should add this as a connection
+                ogToNew[curr]->neighbors.push_back(ogToNew[nxt]);
             }
-            
         }
-
         return ogToNew[node];
     }
 };
