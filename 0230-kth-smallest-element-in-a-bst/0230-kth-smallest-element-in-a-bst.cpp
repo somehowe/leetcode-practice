@@ -29,5 +29,11 @@ public:
         // get down to the bottom left one and search 
         // there will be at elast one node
         return search(root, k)->val;
+        // if BST is modified often and we need to find the kth smallest frequently
+        //   well augmenting it with how many values are on the left of it may not be great
+        //   because then we would have to go through and update all of these each times
+        //   well inserting and delete are alreda log(n) operations so then we could go back up and update
+        //   so we would't have to explore useless branches, instead of O(n) search like we are doing now
+        //   we could make this a log(n) serach as well
     }
 };
