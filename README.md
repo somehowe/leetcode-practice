@@ -53,6 +53,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0322-coin-change](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
