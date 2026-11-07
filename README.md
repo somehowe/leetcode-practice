@@ -56,6 +56,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -195,6 +196,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
