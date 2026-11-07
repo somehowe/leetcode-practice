@@ -237,4 +237,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
