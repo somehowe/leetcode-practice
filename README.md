@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
@@ -192,6 +193,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0009-palindrome-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
