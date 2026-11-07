@@ -1,18 +1,17 @@
 class Solution {
 public:
-    string removeDuplicates(string &s) {
-        // my solution is n^2 I think.
-        bool found_dup = false;
-        for (int i = 1; i < s.size(); ++i) {
-            if (s[i] == s[i - 1]) {
-                found_dup = true;
-                s.erase(s.begin() + i - 1, s.begin() + i + 1);
-                break;
-            }
+    string removeDuplicates(string str) {
+        stack<char> s;
+        for (char c : str) {
+            if (s.empty() || s.top() != c) s.push(c);
+            else s.pop();
         }
-        if (found_dup) {
-            return removeDuplicates(s);
+        string res;
+        while (!s.empty()) {
+            res.push_back(s.top());
+            s.pop();
         }
-        return s;
+        reverse(res.begin(), res.end());
+        return res;
     }
 };
