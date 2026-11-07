@@ -4,6 +4,7 @@ public:
         // bfs
         int n = grid.size();
         int m = grid[0].size();
+        if (grid[0][0] != 0 || grid[n - 1][m - 1] != 0) return -1;
         queue<pair<int, int>> q;
         constexpr int dx[] = {-1, -1, -1, 1, 1, 1, 0, 0};
         constexpr int dy[] = {-1, 1, 0, -1, 1, 0, 1, -1};
