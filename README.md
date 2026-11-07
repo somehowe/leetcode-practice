@@ -24,6 +24,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0875-koko-eating-bananas) |
@@ -68,6 +69,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
@@ -158,6 +160,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
