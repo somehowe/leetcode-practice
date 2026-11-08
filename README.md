@@ -58,6 +58,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
