@@ -26,6 +26,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
+| [0735-asteroid-collision](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0994-rotting-oranges) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
