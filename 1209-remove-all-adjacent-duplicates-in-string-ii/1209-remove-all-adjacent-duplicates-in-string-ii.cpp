@@ -11,7 +11,7 @@ public:
         while (!s.empty()) {
             auto [c, cnt] = s.top();
             s.pop();
-            for (int i = 0; i < cnt; ++i) res.push_back(c);
+            res.append(cnt, c);
         }
         reverse(res.begin(), res.end());
         return res;
