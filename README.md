@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0057-insert-interval) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 ## Greedy
