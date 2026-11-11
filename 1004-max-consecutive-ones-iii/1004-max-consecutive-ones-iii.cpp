@@ -1,16 +1,9 @@
 class Solution {
 public:
     int longestOnes(vector<int>& nums, int k) {
-        // maybe break into two cases
-        // lowkey this is just sliding window
-        // window includes l to r
-        // we need to get k to its right vlaue
-        int l = 0; // normally we can afford this if k > 0
-        if (k > 0 && nums[0] == 0) --k;
-        else while (k == 0 && l < nums.size() && nums[l] == 0) ++l;
-        if (l == nums.size()) return 0;
-        int max_window = 1;
-        for (int r = l + 1; r < nums.size(); ++r) {
+        int l = 0;
+        int max_window = 0;
+        for (int r = 0; r < nums.size(); ++r) {
             if (nums[r] == 0) {
                 if (k > 0) {
                     --k;
