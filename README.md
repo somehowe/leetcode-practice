@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0198-house-robber) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -117,6 +120,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -128,6 +132,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
