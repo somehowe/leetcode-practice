@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
@@ -197,6 +199,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0994-rotting-oranges) |
