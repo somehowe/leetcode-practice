@@ -35,6 +35,7 @@
 | [0735-asteroid-collision](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0875-koko-eating-bananas) |
+| [0986-interval-list-intersections](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0015-3sum) |
+| [0986-interval-list-intersections](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0986-interval-list-intersections) |
 ## Trie
 |  |
 | ------- |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0735-asteroid-collision) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
