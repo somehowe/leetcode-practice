@@ -103,6 +103,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0200-number-of-islands](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0322-coin-change](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
