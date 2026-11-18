@@ -11,12 +11,11 @@
  */
 class Solution {
 public:
-    int helper(TreeNode *node, int root_val) {
+    int helper(TreeNode *node, int maxSoFar) {
         if (!node) return 0;
-        int node_val = max(root_val, node->val);
-        int count = helper(node->left, node_val) + helper(node->right, node_val);
-        if (node->val >= root_val) return 1 + count;
-        else return count;
+        int newMax = max(maxSoFar, node->val);
+        int count = helper(node->left, newMax) + helper(node->right, newMax);
+        return count + (node->val >= maxSoFar);
     }
     int goodNodes(TreeNode* root) {
         return helper(root, root->val);
