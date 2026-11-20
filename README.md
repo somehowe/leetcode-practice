@@ -25,6 +25,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0015-3sum) |
+| [0283-move-zeroes](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0986-interval-list-intersections](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0986-interval-list-intersections) |
 ## Trie
 |  |
