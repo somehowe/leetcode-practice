@@ -15,6 +15,7 @@
 | [0057-insert-interval](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0130-surrounded-regions) |
@@ -194,6 +195,7 @@
 | [0039-combination-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0986-interval-list-intersections) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
