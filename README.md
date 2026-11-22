@@ -65,6 +65,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -95,6 +97,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -169,6 +173,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -204,6 +209,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
