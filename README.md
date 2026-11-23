@@ -64,6 +64,7 @@
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 ## String
@@ -76,6 +77,7 @@
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
@@ -86,6 +88,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -257,6 +260,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0986-interval-list-intersections](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0986-interval-list-intersections) |
 ## Trie
 |  |
