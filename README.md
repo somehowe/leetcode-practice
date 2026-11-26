@@ -130,6 +130,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0785-is-graph-bipartite](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -140,6 +141,7 @@
 | [0200-number-of-islands](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0785-is-graph-bipartite](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -230,6 +232,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -296,6 +299,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0133-clone-graph) |
+| [0785-is-graph-bipartite](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -328,4 +332,12 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0337-house-robber-iii) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
