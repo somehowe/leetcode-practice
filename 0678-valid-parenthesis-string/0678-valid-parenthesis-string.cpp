@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool dp(string &str, int idx, int cnt_open, vector<vector<bool>> &memo) {
+        if (cnt_open > str.size() - idx) return false;
         int og_cnt = cnt_open;
         if (idx == str.size()) return cnt_open == 0;
         if (!memo[idx][cnt_open]) return false; // because if true we are done
