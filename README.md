@@ -80,6 +80,7 @@
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
@@ -204,6 +205,7 @@
 | [0337-house-robber-iii](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
@@ -220,6 +222,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
@@ -256,6 +259,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -316,6 +320,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
