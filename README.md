@@ -66,6 +66,7 @@
 | [0133-clone-graph](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0567-permutation-in-string) |
@@ -80,6 +81,7 @@
 | [0091-decode-ways](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0678-valid-parenthesis-string) |
@@ -102,6 +104,7 @@
 | [0056-merge-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mr-Methodical/leetcode-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
