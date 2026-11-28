@@ -23,8 +23,7 @@ public:
         vector<int> curr;
         unordered_map<int, int> num_to_freq;
         for (int i : nums) {
-            if (num_to_freq.contains(i)) ++num_to_freq[i];
-            else num_to_freq[i] = 1;
+          ++num_to_freq[i];
         }
         // 11xxx, 1x1xx, 1xx1x, 1xxx1, x11xx, x1x1x, x1xx1, xx11x, xx1x1, xxx11
         backtrack(output, curr, num_to_freq);
