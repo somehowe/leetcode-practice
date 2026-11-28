@@ -3,7 +3,10 @@ public:
     int size;
     void backtrack(vector<vector<int>> &output, vector<int> &curr, 
                    unordered_map<int, int> &num_to_freq) {
-        if (curr.size() == size) output.push_back(curr);
+        if (curr.size() == size) {
+            output.push_back(curr);
+            return;
+        }
         for (auto &[num, freq] : num_to_freq) {
             // we will only try this one out once
             if (freq == 0) continue;
